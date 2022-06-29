@@ -1,6 +1,6 @@
 # Operating-System
 
-This was Operating system individual final project. 
+This was The Operating system individual final project. 
 
 ##### Requirements : 
 1. Implement page placement to handle the memory page faults.
